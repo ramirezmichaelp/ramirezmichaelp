@@ -20,16 +20,14 @@ Hobbies:
         -Sport Psychology
         -Welding
         -UX
+Coding Languages:
+                 -R
+                 -Python
+                 -SAS
+                 -Stan
+                 -SQL
 Short Story Publications:
           -Word Magazine
           -Santa Barbara Independent 
-Coding Languages:
-          -R
-          -Python
-          -SAS
-          -C++
-          -Stan
-          -SQL
-
 
 ```
