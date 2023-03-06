@@ -6,11 +6,13 @@
 Name: Ramirez, Michael
 Email: ramirezmichaelp@pm.me
 Location: San Gabriel Valley, CA
-Education: Statistics and Data Science BS
+Education:
+          -Univeristy of California, Santa Barbara(UCSB)
+                Bachelor of Science, Statistics and Data Science
 Technical: 
           -Time Series
           -Regression
-          -Bayesian Inference
+          -Bayesian Data Analysis
           -PCA
           -Anova
           -Exploratory Data Analysis
