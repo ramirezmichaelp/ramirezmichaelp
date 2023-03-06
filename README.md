@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**ramirezmichaelp/ramirezmichaelp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```yaml
+Name: Ramirez, Michael
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Email: ramirezmichaelp@pm.me
+
+Location: San Gabriel Valley, CA
+
+Education: Statistics and Data Science BS
+
+Technical: Time Series, Regression, PCA, Exploratory Data Analysis, Data Cleaning
+
+Hobbies: Jiu Jitsu, Sport Psychology, Welding
+
+Short Story Publications: Word Magazine, Santa Barbara Independent
+  
+Coding Languages: R, Python, SAS, C++, Stan, SQL
+
+
+```
