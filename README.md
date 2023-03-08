@@ -27,7 +27,7 @@ Coding Languages:
                  -Python
                  -SAS
                  -Stan
-                 -MySQL
+                 -SQL/MySQL
 Short Story Publications:
           -Word Magazine
           -Santa Barbara Independent 
