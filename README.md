@@ -8,6 +8,8 @@ Name: Ramirez, Michael
 
 Email: ramirezmichaelp@pm.me
 
+Hacker Rank : ramirezmichaelp
+
 Location: San Gabriel Valley, CA
 
 Education:
