@@ -43,3 +43,10 @@ Short Story Publications:
           -Santa Barbara Independent 
 
 ```
+
+
+---  
+  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
+
+---
