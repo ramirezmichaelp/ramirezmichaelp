@@ -13,22 +13,25 @@ HackerRank: ramirezmichaelp
 Location: San Gabriel Valley, CA
 
 Education:
-          -Univeristy of California, Santa Barbara(UCSB)
+          -University of California, Santa Barbara(UCSB)
                 Bachelor of Science, Statistics and Data Science
                 
 Technical: 
           -Time Series
           -Regression
+          -Model Selection
           -Bayesian Data Analysis
           -PCA
           -Anova
           -Exploratory Data Analysis
           -Data Cleaning
+          -Story Telling
           
 Hobbies:
         -Jiu Jitsu 
         -Sport Psychology
-        -Welding
+        -Welding and Machining
+        -Mycology
         -UX
         
 Coding Languages:
